@@ -1,0 +1,25 @@
+/*Para las clases se pone un punto
+el width es la distancia hacia los lados
+y el height es la distancia de arriba a abajo*/
+.lacteos{
+    width:50px; height: 50px;
+    border:15;
+}
+/*Para los Id's se usa el # */
+#yogur{
+    width: 100px; height: 123px;
+}
+body{
+  background-color: #3824CB;
+}
+div{
+  background-color: black;
+  width: 175px;
+}
+div h1{
+  background-color: red;
+}
+img{
+  width: 100px; height: 100px;
+  border:7px solid #abcd12;
+}
